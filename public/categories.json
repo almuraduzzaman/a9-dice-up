@@ -1,0 +1,22 @@
+[
+    {
+        "logo": "/category1.png",
+        "name": "Technology",
+        "jobs_available": 1200
+    },
+    {
+        "logo": "/category2.png",
+        "name": "Finance",
+        "jobs_available": 800
+    },
+    {
+        "logo": "/category3.png",
+        "name": "Healthcare",
+        "jobs_available": 600
+    },
+    {
+        "logo": "/category4.png",
+        "name": "Marketing",
+        "jobs_available": 400
+    }
+]

@@ -1,0 +1,110 @@
+[
+   {
+      "id": 1,
+      "company_logo": "/google.png",
+      "job_title": "Software Developer",
+      "company_name": "ABC Corp",
+      "remote_or_onsite": "Remote",
+      "location": "Any",
+      "fulltime_or_parttime": "Full-time",
+      "salary": "$80,000 - $120,000",
+      "job_description": "We are looking for an experienced software engineer to join our development team. You will be responsible for designing and implementing software solutions that meet our clients' needs. The ideal candidate should have strong programming skills in languages such as Java, C++, or Python, and experience with software development methodologies such as Agile or Scrum.",
+      "job_responsibility": "Develop and maintain software applications using Java and other technologies.",
+      "educational_requirements": "Bachelor's degree in Computer Science or related field.",
+      "experiences": "3+ years of experience in software development.",
+      "contact_information": {
+         "phone": "123-456-7890",
+         "email": "jobs@abccorp.com"
+      }
+   },
+   {
+      "id": 2,
+      "company_logo": "/airbnb.png",
+      "job_title": "Data Analyst",
+      "company_name": "XYZ Inc",
+      "remote_or_onsite": "Onsite",
+      "location": "Los Angeles, CA",
+      "fulltime_or_parttime": "Part-time",
+      "salary": "$70,000 - $100,000",
+      "job_description": "We are looking for a skilled data analyst to analyze complex data sets and provide insights to help drive business decisions. The ideal candidate should have a degree in Mathematics, Statistics, or a related field, and experience working with data analysis tools such as SQL, R, or Python. You should also have strong problem-solving and critical thinking skills.",
+      "job_responsibility": "Analyze large datasets to identify trends and patterns. Develop reports and visualizations to communicate insights.",
+      "educational_requirements": "Bachelor's degree in Statistics, Mathematics, Computer Science, or related field.",
+      "experiences": "2+ years of experience in data analysis.",
+      "contact_information": {
+         "phone": "123-456-7890",
+         "email": "jobs@xyzinc.com"
+      }
+   },
+   {
+      "id": 3,
+      "company_logo": "/netflix.png",
+      "job_title": "Marketing Manager",
+      "company_name": "123 Marketing",
+      "remote_or_onsite": "Remote",
+      "location": "New York, NY",
+      "fulltime_or_parttime": "Full-time",
+      "salary": "$90,000 - $130,000",
+      "job_description": "We are seeking a Sales Representative to develop new business opportunities and promote our products and services to potential customers. The ideal candidate should have excellent communication skills, the ability to build strong relationships with clients, and a minimum of 2 years of experience in sales.",
+      "job_responsibility": "Develop marketing plans and campaigns. Manage marketing budget. Work with product and sales teams to develop messaging and positioning.",
+      "educational_requirements": "Bachelor's degree in Marketing or related field.",
+      "experiences": "5+ years of experience in marketing.",
+      "contact_information": {
+         "phone": "123-456-7890",
+         "email": "jobs@123marketing.com"
+      }
+   },
+   {
+      "id": 4,
+      "company_logo": "/google2.png",
+      "job_title": "Marketing Specialist",
+      "company_name": "ABC Marketing",
+      "remote_or_onsite": "Onsite",
+      "location": "Los Angeles, CA",
+      "fulltime_or_parttime": "Part-time",
+      "salary": "$80,000 - $100,000",
+      "job_description": "We are seeking a Human Resources Manager to oversee all aspects of our human resources department, including recruitment, performance management, and employee relations. The ideal candidate should have a degree in Human Resources, Business Administration, or a related field, and a minimum of 7 years of experience in HR, including experience managing a team.",
+      "job_responsibility": "Responsibilities include creating marketing materials...",
+      "educational_requirements": "Bachelor's degree in Marketing or related field",
+      "experiences": "3+ years of experience in marketing",
+      "contact_information": {
+         "phone": "(888) 888-8888",
+         "email": "marketingjobs@abcmarketing.com"
+      }
+   },
+   {
+      "id": 5,
+      "company_logo": "/tesla.png",
+      "job_title": "Product Manager",
+      "company_name": "123 Company",
+      "remote_or_onsite": "Remote",
+      "location": "Anywhere",
+      "fulltime_or_parttime": "Full-time",
+      "salary": "$120,000 - $140,000",
+      "job_description": "We are seeking a Marketing Manager to lead our marketing team and develop strategies to promote our products and services. The ideal candidate should have a degree in Marketing or Business Administration, and a minimum of 5 years of experience in marketing, including experience managing a team. You should also have excellent communication and project management skills.",
+      "job_responsibility": "Responsibilities include managing the product roadmap...",
+      "educational_requirements": "Bachelor's degree in Business or related field",
+      "experiences": "8+ years of experience in product management",
+      "contact_information": {
+         "phone": "(555) 123-4567",
+         "email": "pmjobs@123company.com"
+      }
+   },
+   {
+      "id": 6,
+      "company_logo": "/airbnb.png",
+      "job_title": "Graphic Designer",
+      "company_name": "XYZ Agency",
+      "remote_or_onsite": "Onsite",
+      "location": "New York, NY",
+      "fulltime_or_parttime": "Part-time",
+      "salary": "$50,000 - $70,000",
+      "job_description": "We are looking for a creative graphic designer to create visually appealing designs for our marketing campaigns. The ideal candidate should have a strong portfolio of previous design work, proficiency in design tools such as Adobe Creative Suite, and experience working with different types of media, including print and digital.",
+      "job_responsibility": "Responsibilities include designing marketing materials...",
+      "educational_requirements": "Bachelor's degree in Graphic Design or related field",
+      "experiences": "2+ years of experience in graphic design",
+      "contact_information": {
+         "phone": "(555) 555-5555",
+         "email": "designjobs@xyzagency.com"
+      }
+   }
+]
